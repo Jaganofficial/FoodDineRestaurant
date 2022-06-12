@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "728866184125",
+    "project_id": "fooddinein-7b966",
+    "storage_bucket": "fooddinein-7b966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728866184125:android:aff63fd311f7e58fc650d4",
+        "android_client_info": {
+          "package_name": "com.example.fooddinein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728866184125-ourvfof0uugtduatp62u046m03qq58nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fooddinein",
+            "certificate_hash": "0e157d0f54e3b7a88069d5b0c8cfc52485a2f0e2"
+          }
+        },
+        {
+          "client_id": "728866184125-fd1ho4ei7dbgd73nciiprde4k5r3t3te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACt40xbGRMj-NuPa45lMzGjKE7LY6uoW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728866184125-fd1ho4ei7dbgd73nciiprde4k5r3t3te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728866184125:android:704875ecb1b6bd75c650d4",
+        "android_client_info": {
+          "package_name": "com.example.fooddinerestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728866184125-fd1ho4ei7dbgd73nciiprde4k5r3t3te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACt40xbGRMj-NuPa45lMzGjKE7LY6uoW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728866184125-fd1ho4ei7dbgd73nciiprde4k5r3t3te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
